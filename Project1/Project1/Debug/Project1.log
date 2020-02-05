@@ -1,0 +1,5 @@
+﻿  2.c
+C:\Users\박연환\Desktop\STUDY\Project1\Project1\2.c(4,9): warning C4013: 'scanf_s'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\박연환\Desktop\STUDY\Project1\Project1\2.c(6,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+2.obj : error LNK2005: _main이(가) 1.obj에 이미 정의되어 있습니다.
+C:\Users\박연환\Desktop\STUDY\Project1\Debug\Project1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
